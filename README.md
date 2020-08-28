@@ -1,6 +1,8 @@
 # hamilton_lyrics_nlp
 Hamilton has become a wordwide phenomenon and I wanted to try to create a new song by training a model on all the lyrics from hamilton. Used GPT2 simple created by minimaxir(https://github.com/minimaxir/gpt-2-simple).
 
+Sample text:
+
 Hamilton:
 No, sir, she's in
 
@@ -14,6 +16,7 @@ Washington (Ensemble Men):
 Set the record straight
 Angelica:
 I know, I know
+
 Eliza:
 Look around, look around at how
 Lucky we are to be alive right now
@@ -40,12 +43,6 @@ Angelica:
 He's very attractive in the North
 New Yorkers like his chances
 
-Washington:
-Angelica, tell this man John Adams doesn't have the votes
-
-Hamilton:
-Angelica, tell this man John Adams doesn't have the votes
-
 Angelica:
 He's a bit of a flirt
 
@@ -61,46 +58,9 @@ I don't know about any letter
 Hamilton:
 Don't forget to write
 
-Eliza:
-Hey, I have never been the type to try and grab your connection
-
-Washington:
-I didn't know any better
-
-Angelica:
-Hey, I have never been the type to try and grab your connection
-
-Washington:
-I didn't know any better
-
-Angelica:
-Hey, I have never been the type to try and grab your connection
-
-Washington:
-I didn't know any better
-
-Angelica:
-Hey, I have never been the type to try and grab your connection
-
-Washington:
-I didn't know any better
-
-Angelica:
-Hey, I have never been the type to try and grab your connection
-
-Washington:
-I didn't know any better
-
-Angelica:
-Look around, look around at how
-Lucky we are to be alive right now
-
-Washington:
-History is happening in Manhattan and we just happen to be
-In the greatest city in the world
-
 Angelica:
 I know, I know
+
 Eliza:
 Look around, isn't this enough?
 
@@ -194,8 +154,7 @@ I'll make one other mistake
 Hamilton:
 And no one else is in
 
-Angelica and Claudio:
-(Angelica!)
+Angelica:
 My wife and I are here with a favor to say
 Talk to me about a subject you're passionate about
 And I'm willing to wait for it (at least I promise not to use your office)
