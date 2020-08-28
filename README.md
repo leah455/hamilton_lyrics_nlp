@@ -1,4 +1,5 @@
 # hamilton_lyrics_nlp
+Hamilton has become a wordwide phenomenon and I wanted to try to create a new song by training a model on all the lyrics from hamilton. Used GPT2 simple created by minimaxir(https://github.com/minimaxir/gpt-2-simple).
 
 Hamilton:
 No, sir, she's in
